@@ -5,9 +5,12 @@
 
   <h2 align=center>🫠 Web Front-end developer</h2>
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ 
   
   <h3 align=center> 🛠️Tech Stack 🛠️ </h3>
+  
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  
   <h3 align=center> 🫠 Web Front-end developer</h3>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon-mikim&show_icons=true&theme=tokyonight&text_color=edeff2&ring_color=70faac&icon_color=70faac&title_color=70faac)
