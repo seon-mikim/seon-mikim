@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=220&section=header&text=KIMSEONMI&fontSizew44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=260&section=header&text=KIMSEONMI&fontSizew44)
 
 
 
