@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=220&section=header&text=kimseonmi&fontSizew54)
+![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=220&section=header&text=KimSeonMi&fontSizew54)
 
 
 
