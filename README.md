@@ -5,6 +5,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon-mikim&show_icons=true&theme=tokyonight&hide_border=ture)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon-mikim&show_icons=true&theme=tokyonight&text_color=70faac)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seon-mikim&layout=compact)
 
