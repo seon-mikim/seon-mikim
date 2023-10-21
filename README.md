@@ -18,6 +18,7 @@
  <div>
 <div>
 
+[![Update gist](https://github.com/seon-mikim/productive-box/actions/workflows/schedule.yml/badge.svg?event=workflow_run)](https://github.com/seon-mikim/productive-box/actions/workflows/schedule.yml)
  
 
 
